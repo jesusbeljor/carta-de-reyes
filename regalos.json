@@ -131,6 +131,126 @@
       "tienda": "Cortefiel",
       "url": "https://cortefiel.com/es/es/hombre/camisas/camisa-cuadros-popelin-manga-larga/0754011.html?dwvar_0754011_color=56",
       "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw97d83dd8/images/hi-res/P_075401156FM.jpg?sh=900&sm=fit&sw=600"
+    },
+    {
+      "id": "md-camisa-oxford-402",
+      "nombre": "Camisa Oxford regular fit",
+      "marca": "Massimo Dutti",
+      "categoria": "Camisas",
+      "detalle": "Turquesa · 100% algodón · Ref. 2119/392",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Massimo Dutti",
+      "url": "https://www.massimodutti.com/es/camisa-regular-fit-oxford-100-algodon-l02119392?pelement=67149018&colorId=402",
+      "imagen": "https://static.massimodutti.net/assets/public/e501/3a1d/428445228438/e3414afbbe9f/02119392402-o1/02119392402-o1.jpg?ts=1793192598251&f=auto&w=1000"
+    },
+    {
+      "id": "onitsuka-mexico-66-250",
+      "nombre": "Zapatillas Mexico 66",
+      "marca": "Onitsuka Tiger",
+      "categoria": "Zapatillas",
+      "detalle": "Modelo 1183C102.250",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Onitsuka Tiger",
+      "url": "https://www.onitsukatiger.com/es/es-es/mexico-66/p/1183c102-250.html",
+      "imagen": "https://images.asics.com/is/image/asics/1183C102_250_SR_RT_GLB?bgc=255%2C255%2C255&hei=768&qlt=80&resMode=bisharp&wid=1024"
+    },
+    {
+      "id": "elganso-camisa-garment-verde",
+      "nombre": "Camisa Garment Dyed button down",
+      "marca": "El Ganso",
+      "categoria": "Camisas",
+      "detalle": "Verde oscuro · Ref. 1050W260050",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "El Ganso",
+      "url": "https://www.elganso.com/es/camisa-garment-dyed-button-down-verde-oscuro-140701-140701.html",
+      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260050_Camisa_Garment_Dyed_Button_Down_Verde_Oscuro_3286_5.jpg"
+    },
+    {
+      "id": "elganso-camisa-viyela-verde",
+      "nombre": "Camisa de viyela cuello italiano",
+      "marca": "El Ganso",
+      "categoria": "Camisas",
+      "detalle": "Verde · Ref. 1050W260093",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "El Ganso",
+      "url": "https://www.elganso.com/es/camisa-viyela-cuello-italiano-verde-140797-140797.html",
+      "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260093_Camisa_Viyela_Cuello_Italiano_Verde_7963_5.jpg"
+    },
+    {
+      "id": "elganso-camisa-lino-gris",
+      "nombre": "Camisa de lino y algodón cuello italiano",
+      "marca": "El Ganso",
+      "categoria": "Camisas",
+      "detalle": "Gris · Ref. 1050W260030",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "El Ganso",
+      "url": "https://www.elganso.com/es/camisa-lino-algodon-cuello-italiano-gris-140658-140658.html",
+      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260030_Camisa_Lino_Algodon_Cuello_Italiano_Gris_0823_5.jpg"
+    },
+    {
+      "id": "elganso-camisa-viyela-celeste",
+      "nombre": "Camisa de viyela cuello italiano",
+      "marca": "El Ganso",
+      "categoria": "Camisas",
+      "detalle": "Celeste · Ref. 1050W260094",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "El Ganso",
+      "url": "https://www.elganso.com/es/camisa-viyela-cuello-italiano-celeste-139347-139347.html",
+      "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260094_Camisa_Viyela_Cuello_Italiano_Celeste_6148.jpg"
+    },
+    {
+      "id": "md-jersey-merino",
+      "nombre": "Jersey polo de lana merino",
+      "marca": "Massimo Dutti",
+      "categoria": "Jerséis",
+      "detalle": "Azul marino · 100% lana merino · Ref. 1301/210",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Massimo Dutti",
+      "url": "https://www.massimodutti.com/es/jersey-polo-punto-100-lana-merino-l01301210?pelement=61729114",
+      "imagen": "https://static.massimodutti.net/assets/public/a0d7/af8e/e37a4ee799d2/ceee570a0aa2/01301210401-o6/01301210401-o6.jpg?f=auto&ts=1783682256950&w=1000"
+    },
+    {
+      "id": "md-jersey-algodon-801",
+      "nombre": "Jersey de punto cuello polo",
+      "marca": "Massimo Dutti",
+      "categoria": "Jerséis",
+      "detalle": "Marengo · 100% algodón · Ref. 1421/201",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Massimo Dutti",
+      "url": "https://www.massimodutti.com/es/jersey-punto-polo-100-algodon-l01421201?pelement=62129818&colorId=801",
+      "imagen": "https://static.massimodutti.net/assets/public/a237/9b4a/76014d2db429/9cd3aa93fd4d/01421201801-o1/01421201801-o1.jpg?ts=1785753758016&f=auto&w=1000"
+    },
+    {
+      "id": "silbon-jersey-burdeos",
+      "nombre": "Jersey cuello polo",
+      "marca": "Silbon",
+      "categoria": "Jerséis",
+      "detalle": "Burdeos · Ref. FW261020817163",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Silbon",
+      "url": "https://www.silbonshop.com/products/jersey-cuello-polo-burdeos-1",
+      "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261020817163_2.jpg?v=1791980411&width=800"
+    },
+    {
+      "id": "silbon-jersey-unique-marino",
+      "nombre": "Jersey cuello polo Unique",
+      "marca": "Silbon",
+      "categoria": "Jerséis",
+      "detalle": "Azul marino",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Silbon",
+      "url": "https://www.silbonshop.com/products/jersey-cuello-polo-unique-azul-marino",
+      "imagen": "https://www.silbonshop.com/cdn/shop/files/0O2A1127_v1.jpg?v=1791957802&width=800"
     }
   ]
 }
