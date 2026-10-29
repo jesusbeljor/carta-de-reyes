@@ -251,6 +251,18 @@
       "tienda": "Silbon",
       "url": "https://www.silbonshop.com/products/jersey-cuello-polo-unique-azul-marino",
       "imagen": "https://www.silbonshop.com/cdn/shop/files/0O2A1127_v1.jpg?v=1791957802&width=800"
+    },
+    {
+      "id": "pompeii-elan-pippa-cedar-cream",
+      "nombre": "Zapatillas Elan Pippa Nobuck",
+      "marca": "Pompeii",
+      "categoria": "Zapatillas",
+      "detalle": "Cedar Cream",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Pompeii",
+      "url": "https://pompeiibrand.com/products/elan-pippa-nobuck-cedar-cream",
+      "imagen": "https://cdn.shopify.com/s/files/1/0003/6270/9002/files/ELANPIPPANOBUCKCEDARCREAM_01.jpg?v=1792426251"
     }
   ]
 }
