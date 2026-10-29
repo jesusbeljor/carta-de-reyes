@@ -1,0 +1,64 @@
+{
+  "regalos": [
+    {
+      "id": "onitsuka-mexico-66",
+      "nombre": "Zapatillas Mexico 66",
+      "marca": "Onitsuka Tiger",
+      "categoria": "Calzado",
+      "detalle": "Modelo 1183C102.109",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Onitsuka Tiger",
+      "url": "https://www.onitsukatiger.com/es/es-es/mexico-66/p/1183c102-109.html",
+      "imagen": "https://images.asics.com/is/image/asics/1183C102_109_SR_RT_GLB?bgc=255%2C255%2C255&hei=768&qlt=80&resMode=bisharp&wid=1024"
+    },
+    {
+      "id": "tommy-rugby-purpura",
+      "nombre": "Sudadera de punto rugby",
+      "marca": "Tommy Hilfiger",
+      "categoria": "Ropa",
+      "detalle": "Color púrpura · Ref. VLP",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Tommy Hilfiger",
+      "url": "https://es.tommy.com/sudadera-de-punto-con-raya-estilo-rugby-mw0mw45692vlp",
+      "imagen": "https://tommy-europe.scene7.com/is/image/TommyEurope/MW0MW45692_VLP_main?%24b2c_updp_zoomThumb_540%24="
+    },
+    {
+      "id": "cortefiel-polo",
+      "nombre": "Polo de manga larga",
+      "marca": "Cortefiel",
+      "categoria": "Ropa",
+      "detalle": "Gris oscuro · Ref. 6594075",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Cortefiel",
+      "url": "https://cortefiel.com/es/es/hombre/polos/polo-refinado-manga-larga/6594075.html?dwvar_6594075_color=40",
+      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ctf-master-catalog/default/dwc3ed723d/images/hi-res/P_659407540FM.jpg?sh=900&sm=fit&sw=600"
+    },
+    {
+      "id": "tommy-rugby-amarillo",
+      "nombre": "Sudadera de punto rugby",
+      "marca": "Tommy Hilfiger",
+      "categoria": "Ropa",
+      "detalle": "Color amarillo · Ref. Z00",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Tommy Hilfiger",
+      "url": "https://es.tommy.com/sudadera-de-punto-con-raya-estilo-rugby-mw0mw45692z00",
+      "imagen": "https://tommy-europe.scene7.com/is/image/TommyEurope/MW0MW45692_Z00_main?%24b2c_updp_zoomThumb_540%24="
+    },
+    {
+      "id": "dustin-neceser",
+      "nombre": "Neceser en tejido",
+      "marca": "Dustin",
+      "categoria": "Accesorios",
+      "detalle": "Color verde",
+      "talla": null,
+      "requiereTalla": false,
+      "tienda": "El Corte Inglés",
+      "url": "https://www.elcorteingles.es/moda-hombre/A200422222-verde-pr-neceser-en-tejido/",
+      "imagen": "https://dam.elcorteingles.es/producto/www-001033373100594-00.jpg"
+    }
+  ]
+}

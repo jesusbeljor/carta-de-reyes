@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#27483e">
+  <meta name="description" content="La carta de Reyes de Jesús. Ideas de regalo, tallas y enlaces a las tiendas, todo en un mismo sitio.">
+  <meta name="robots" content="noindex, nofollow">
+  <meta property="og:title" content="La carta de Jesús · Reyes">
+  <meta property="og:description" content="Unas cuantas cosas que me hacen ilusión. Aquí están los detalles y los enlaces para acertar.">
+  <title>La carta de Jesús · Reyes</title>
+  <link rel="icon" href="./estrella.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script src="./app.js" type="module"></script>
+</head>
+<body>
+  <a class="skip" href="#regalos">Ir a los regalos</a>
+  <header class="header wrap">
+    <a class="brand" href="./" aria-label="La carta de Jesús, inicio"><span class="brand-star" aria-hidden="true">✳</span> La carta de Jesús<span class="brand-dot">.</span></a>
+    <button class="share" id="share" type="button" aria-label="Compartir carta"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 16V3m-4 4 4-4 4 4M5 13v7h14v-7"/></svg><span>Compartir carta</span></button>
+  </header>
+  <main>
+    <section class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-copy">
+        <p class="eyebrow"><span aria-hidden="true">✦</span> PARA MIS REYES MAGOS</p>
+        <h1 id="hero-title">Queridos Reyes,<br>por aquí van<br><em>algunas pistas.</em></h1>
+        <p class="intro">Soy Jesús y estas son algunas cosas que me hacen ilusión. Os dejo los detalles y los enlaces para ponéroslo fácil.</p>
+        <a class="primary" href="#regalos">Ver mi lista <span aria-hidden="true">↓</span></a>
+        <p class="hero-foot">Sin adivinanzas. Con mucha ilusión.</p>
+      </div>
+      <div class="letter-scene" aria-hidden="true">
+        <span class="scene-star star-one">✧</span><span class="scene-star star-two">✦</span><span class="scene-star star-three">✧</span>
+        <div class="letter">
+          <div class="letter-top"><span>UNA CARTA ESPECIAL</span><span class="stamp"><svg viewBox="0 0 50 45"><path d="m8 28-3-17 12 8 8-14 8 14 12-8-3 17ZM9 34h32"/></svg><small>6 ENE</small></span></div>
+          <p class="handwritten">Queridos<br>Reyes Magos...</p>
+          <div class="letter-lines"><i></i><i></i><i></i></div>
+          <span class="letter-sign">Con ilusión, Jesús</span>
+        </div>
+        <div class="envelope"><div class="flap"></div><div class="seal">J</div></div>
+        <div class="paper-tag">Entrega especial <span>♡</span></div>
+      </div>
+    </section>
+    <div class="ribbon"><span aria-hidden="true">✦</span> Una pequeña ayuda para acertar <span aria-hidden="true">✦</span> Elegido con ilusión <span aria-hidden="true">✦</span> Directo a la tienda</div>
+    <section class="wishlist wrap" id="regalos" aria-labelledby="list-title">
+      <div class="list-heading"><div><p class="eyebrow">LA LISTA</p><h2 id="list-title">Me haría ilusión…</h2></div><span class="item-count" id="item-count"></span></div>
+      <p class="list-intro">Elige una idea, comprueba los detalles y visita la tienda.</p>
+      <div class="size-notice"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v6m0-10v1"/></svg><p><strong>Las tallas están por confirmar.</strong> Las añadiré aquí en cuanto las tenga. Antes de comprar ropa o calzado, comprueba que ya aparezca la mía.</p></div>
+      <div class="filter-bar" id="filter-bar" hidden><div class="filters" role="group" aria-label="Filtrar regalos por categoría" id="filters"></div><span class="filter-caption">Pequeñas ideas, grandes sonrisas.</span></div>
+      <div class="gift-grid" id="gift-grid" aria-busy="true"><p class="loading">Abriendo la carta…</p></div>
+      <p class="load-error" id="load-error" hidden>No se ha podido abrir la lista. <button id="retry" type="button">Volver a intentarlo</button></p>
+      <noscript><p>Activa JavaScript para ver la lista de regalos y sus enlaces.</p></noscript>
+      <div class="closing-card"><span class="closing-star" aria-hidden="true">✧</span><div><h3>La carta sigue abierta.</h3><p>Puede que añada alguna idea más. Puedes volver a este mismo enlace para ver la lista actualizada.</p></div><span class="closing-sign" aria-hidden="true">Gracias, Reyes ♡</span></div>
+    </section>
+  </main>
+  <footer class="footer wrap"><span>La carta de Jesús<span class="brand-dot">.</span></span><p>Lo bonito es que os acordéis de mí. <span aria-hidden="true">♡</span></p><a href="#">Volver arriba ↑</a></footer>
+  <div class="toast" role="status" id="toast" hidden></div>
+  <dialog id="share-dialog"><button class="dialog-close" id="close-dialog" aria-label="Cerrar" type="button">×</button><h2>Comparte la ilusión.</h2><p>Copia este enlace y envíalo a tus Reyes Magos.</p><label for="share-url">Enlace a la carta</label><input id="share-url" readonly><button id="copy-link" class="primary" type="button">Copiar enlace</button><p id="copy-status" role="status"></p></dialog>
+</body>
+</html>
