@@ -443,6 +443,54 @@
       "tienda": "Mango",
       "url": "https://shop.mango.com/es/es/p/hombre/vaqueros/tapered/jeans-sammy-cropped-carrot-fit/37034404/TU/00",
       "imagen": "https://media.mango.com/is/image/punto/37034404-TU-900?wid=1000"
+    },
+    {
+      "id": "silbon-camisa-hunter-verde",
+      "nombre": "Camisa sport warm cuadros hunter",
+      "marca": "Silbon",
+      "categoria": "Camisas",
+      "detalle": "Verde oscuro · Ref. FW261020503053",
+      "url": "https://www.silbonshop.com/products/camisa-sport-warm-cuadros-hunter-verde-oscuro",
+      "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261020503053_10.jpg?v=1792409086&width=1100",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Silbon"
+    },
+    {
+      "id": "scalpers-camisa-cuadros-crema",
+      "nombre": "Camisa de cuadros con cuello de botones",
+      "marca": "Scalpers",
+      "categoria": "Camisas",
+      "detalle": "Crema · Ref. 68911",
+      "url": "https://scalperscompany.com/products/68911-scnew-dye-check-bd-shirt-aw2627-cream",
+      "imagen": "https://scalperscompany.com/cdn/shop/files/68911-CREAM-S-1.jpg?crop=center&height=1500&v=1789120416&width=1000",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Scalpers"
+    },
+    {
+      "id": "scalpers-polo-largo-antracita",
+      "nombre": "Polo de manga larga con calavera",
+      "marca": "Scalpers",
+      "categoria": "Polos",
+      "detalle": "Antracita jaspeado · Ref. 72715",
+      "url": "https://scalperscompany.com/products/72715-scbasic-ls-polo-aw2627-anthracitemelange",
+      "imagen": "https://scalperscompany.com/cdn/shop/files/72715-ANTHRACITEMELANGE-P-4.jpg?crop=center&height=1583&v=1792504739&width=1100",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Scalpers"
+    },
+    {
+      "id": "silbon-polo-largo-petroleo",
+      "nombre": "Polo de manga larga",
+      "marca": "Silbon",
+      "categoria": "Polos",
+      "detalle": "Petróleo · Ref. FW261011002418",
+      "url": "https://www.silbonshop.com/products/polo-manga-larga-petroleo",
+      "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261011002418_1_3_25676cc4-d0e9-4185-a3a0-8550afbd4531.jpg?v=1792760473&width=800",
+      "talla": null,
+      "requiereTalla": true,
+      "tienda": "Silbon"
     }
   ]
 }
