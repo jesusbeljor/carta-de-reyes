@@ -13,18 +13,6 @@
       "imagen": "https://dam.elcorteingles.es/producto/www-001033373100594-00.jpg"
     },
     {
-      "id": "cortefiel-jersey-polo",
-      "nombre": "Jersey de punto fino cuello polo",
-      "marca": "Cortefiel",
-      "categoria": "Jerséis",
-      "detalle": "Azul marino · Ref. 1364520",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Cortefiel",
-      "url": "https://cortefiel.com/es/es/hombre/jerseis-y-cardigans/jersey-punto-fino-basico-cuello-polo/1364520.html?dwvar_1364520_color=10",
-      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ctf-master-catalog/default/dw09d15ab5/images/hi-res/P_136452010FM.jpg?sh=900&sm=fit&sw=600"
-    },
-    {
       "id": "elganso-jersey-camionero",
       "nombre": "Jersey de cuello camionero",
       "marca": "El Ganso",
@@ -73,18 +61,6 @@
       "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw97d83dd8/images/hi-res/P_075401156FM.jpg?sh=900&sm=fit&sw=600"
     },
     {
-      "id": "md-camisa-oxford-402",
-      "nombre": "Camisa Oxford regular fit",
-      "marca": "Massimo Dutti",
-      "categoria": "Camisas",
-      "detalle": "Turquesa · 100% algodón · Ref. 2119/392",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Massimo Dutti",
-      "url": "https://www.massimodutti.com/es/camisa-regular-fit-oxford-100-algodon-l02119392?pelement=67149018&colorId=402",
-      "imagen": "https://static.massimodutti.net/assets/public/e501/3a1d/428445228438/e3414afbbe9f/02119392402-o1/02119392402-o1.jpg?ts=1793192598251&f=auto&w=1000"
-    },
-    {
       "id": "elganso-camisa-garment-verde",
       "nombre": "Camisa Garment Dyed button down",
       "marca": "El Ganso",
@@ -131,30 +107,6 @@
       "tienda": "El Ganso",
       "url": "https://www.elganso.com/es/camisa-viyela-cuello-italiano-celeste-139347-139347.html",
       "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260094_Camisa_Viyela_Cuello_Italiano_Celeste_6148.jpg"
-    },
-    {
-      "id": "md-jersey-merino",
-      "nombre": "Jersey polo de lana merino",
-      "marca": "Massimo Dutti",
-      "categoria": "Jerséis",
-      "detalle": "Azul marino · 100% lana merino · Ref. 1301/210",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Massimo Dutti",
-      "url": "https://www.massimodutti.com/es/jersey-polo-punto-100-lana-merino-l01301210?pelement=61729114",
-      "imagen": "https://static.massimodutti.net/assets/public/a0d7/af8e/e37a4ee799d2/ceee570a0aa2/01301210401-o6/01301210401-o6.jpg?f=auto&ts=1783682256950&w=1000"
-    },
-    {
-      "id": "md-jersey-algodon-801",
-      "nombre": "Jersey de punto cuello polo",
-      "marca": "Massimo Dutti",
-      "categoria": "Jerséis",
-      "detalle": "Marengo · 100% algodón · Ref. 1421/201",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Massimo Dutti",
-      "url": "https://www.massimodutti.com/es/jersey-punto-polo-100-algodon-l01421201?pelement=62129818&colorId=801",
-      "imagen": "https://static.massimodutti.net/assets/public/a237/9b4a/76014d2db429/9cd3aa93fd4d/01421201801-o1/01421201801-o1.jpg?ts=1785753758016&f=auto&w=1000"
     },
     {
       "id": "silbon-jersey-burdeos",
@@ -347,18 +299,6 @@
       "talla": null,
       "requiereTalla": true,
       "tienda": "Silbon"
-    },
-    {
-      "id": "scalpers-camisa-cuadros-crema",
-      "nombre": "Camisa de cuadros con cuello de botones",
-      "marca": "Scalpers",
-      "categoria": "Camisas",
-      "detalle": "Crema · Ref. 68911",
-      "url": "https://scalperscompany.com/products/68911-scnew-dye-check-bd-shirt-aw2627-cream",
-      "imagen": "https://scalperscompany.com/cdn/shop/files/68911-CREAM-S-1.jpg?crop=center&height=1500&v=1789120416&width=1000",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Scalpers"
     },
     {
       "id": "scalpers-polo-largo-antracita",
