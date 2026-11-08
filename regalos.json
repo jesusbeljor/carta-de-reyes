@@ -49,18 +49,6 @@
       "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw0592d34b/images/hi-res/P_075400169FM.jpg?sh=900&sm=fit&sw=600"
     },
     {
-      "id": "ooto-camisa-cuadros",
-      "nombre": "Camisa de cuadros de manga larga",
-      "marca": "OOTO",
-      "categoria": "Camisas",
-      "detalle": "Estampado beige · Ref. 0754011",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Cortefiel",
-      "url": "https://cortefiel.com/es/es/hombre/camisas/camisa-cuadros-popelin-manga-larga/0754011.html?dwvar_0754011_color=56",
-      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw97d83dd8/images/hi-res/P_075401156FM.jpg?sh=900&sm=fit&sw=600"
-    },
-    {
       "id": "elganso-camisa-garment-verde",
       "nombre": "Camisa Garment Dyed button down",
       "marca": "El Ganso",
@@ -71,18 +59,6 @@
       "tienda": "El Ganso",
       "url": "https://www.elganso.com/es/camisa-garment-dyed-button-down-verde-oscuro-140701-140701.html",
       "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260050_Camisa_Garment_Dyed_Button_Down_Verde_Oscuro_3286_5.jpg"
-    },
-    {
-      "id": "elganso-camisa-viyela-verde",
-      "nombre": "Camisa de viyela cuello italiano",
-      "marca": "El Ganso",
-      "categoria": "Camisas",
-      "detalle": "Verde · Ref. 1050W260093",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "El Ganso",
-      "url": "https://www.elganso.com/es/camisa-viyela-cuello-italiano-verde-140797-140797.html",
-      "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260093_Camisa_Viyela_Cuello_Italiano_Verde_7963_5.jpg"
     },
     {
       "id": "elganso-camisa-lino-gris",
@@ -121,18 +97,6 @@
       "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261020817163_2.jpg?v=1791980411&width=800"
     },
     {
-      "id": "silbon-jersey-unique-marino",
-      "nombre": "Jersey cuello polo Unique",
-      "marca": "Silbon",
-      "categoria": "Jerséis",
-      "detalle": "Azul marino",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Silbon",
-      "url": "https://www.silbonshop.com/products/jersey-cuello-polo-unique-azul-marino",
-      "imagen": "https://www.silbonshop.com/cdn/shop/files/0O2A1127_v1.jpg?v=1791957802&width=800"
-    },
-    {
       "id": "pompeii-elan-pippa-cedar-cream",
       "nombre": "Zapatillas Elan Pippa Nobuck",
       "marca": "Pompeii",
@@ -155,18 +119,6 @@
       "tienda": "Silbon",
       "url": "https://www.silbonshop.com/products/sudadera-media-cremallera-minilogo-azul-marino-1",
       "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261041102224_1.jpg?v=1788520253"
-    },
-    {
-      "id": "tommy-jeans-flag-calypso",
-      "nombre": "Sudadera con capucha Flag",
-      "marca": "Tommy Jeans",
-      "categoria": "Sudaderas",
-      "detalle": "Calypso Berry · Ref. TOB22S0GP-G14",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Zalando",
-      "url": "https://www.zalando.es/tommy-jeans-flag-hoodie-jersey-con-capucha-calypso-berry-tob22s0gp-g14.html",
-      "imagen": "https://img01.ztat.net/article/spp-media-p1/831dbdbeac5840ffb465c52bb1ac06ec/bf9c622cd54a4b6495e0443a38dbf92c.jpg?imwidth=762"
     },
     {
       "id": "cortefiel-sudadera-capucha-40",
@@ -241,18 +193,6 @@
       "imagen": "https://scalperscompany.com/cdn/shop/files/70318-BROWN-S-1.jpg?v=1791969792"
     },
     {
-      "id": "mango-prato-chino-56",
-      "nombre": "Pantalón Prato chino cropped tapered",
-      "marca": "Mango",
-      "categoria": "Pantalones",
-      "detalle": "Ref. 37061332 · Variante 56",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Mango",
-      "url": "https://shop.mango.com/es/es/p/hombre/pantalones/chinos/pantalon-prato-chino-cropped-tappered/37061332/56/00",
-      "imagen": "https://media.mango.com/is/image/punto/37061332-56-002?wid=960"
-    },
-    {
       "id": "mango-ben-vaquero-bb",
       "nombre": "Vaqueros Ben cropped tapered fit",
       "marca": "Mango",
@@ -275,18 +215,6 @@
       "tienda": "Mango",
       "url": "https://shop.mango.com/es/es/p/hombre/vaqueros/tapered/jeans-ben-cropped-tapered-fit/37002901/TN/00",
       "imagen": "https://media.mango.com/is/image/punto/37002901-TN-900?wid=1000"
-    },
-    {
-      "id": "mango-sammy-vaquero-tu",
-      "nombre": "Vaqueros Sammy cropped carrot fit",
-      "marca": "Mango",
-      "categoria": "Pantalones",
-      "detalle": "Gris oscuro · Ref. 37034404",
-      "talla": null,
-      "requiereTalla": true,
-      "tienda": "Mango",
-      "url": "https://shop.mango.com/es/es/p/hombre/vaqueros/tapered/jeans-sammy-cropped-carrot-fit/37034404/TU/00",
-      "imagen": "https://media.mango.com/is/image/punto/37034404-TU-900?wid=1000"
     },
     {
       "id": "silbon-camisa-hunter-verde",
