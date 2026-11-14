@@ -25,18 +25,6 @@
       "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260050_Camisa_Garment_Dyed_Button_Down_Verde_Oscuro_3286_5.jpg"
     },
     {
-      "id": "elganso-camisa-viyela-celeste",
-      "nombre": "Camisa de viyela cuello italiano",
-      "marca": "El Ganso",
-      "categoria": "Camisas",
-      "detalle": "Celeste · Ref. 1050W260094",
-      "talla": "M (recomendada)",
-      "requiereTalla": true,
-      "tienda": "El Ganso",
-      "url": "https://www.elganso.com/es/camisa-viyela-cuello-italiano-celeste-139347-139347.html",
-      "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260094_Camisa_Viyela_Cuello_Italiano_Celeste_6148.jpg"
-    },
-    {
       "id": "silbon-jersey-burdeos",
       "nombre": "Jersey cuello polo",
       "marca": "Silbon",
@@ -95,30 +83,6 @@
       "tienda": "Scalpers",
       "url": "https://scalperscompany.com/products/61771-scstripes-elastic-belt-aw2526-khaki",
       "imagen": "https://scalperscompany.com/cdn/shop/files/61771-KHAKI-S-2.jpg?v=1753448846"
-    },
-    {
-      "id": "silbon-jersey-rombos-azul-gris",
-      "nombre": "Jersey de rombos",
-      "marca": "Silbon",
-      "categoria": "Jerséis",
-      "detalle": "Azul y gris",
-      "talla": "M (recomendada)",
-      "requiereTalla": true,
-      "tienda": "Silbon",
-      "url": "https://www.silbonshop.com/products/jersey-rombos-azul-gris",
-      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261020811436.jpg?v=1792589463"
-    },
-    {
-      "id": "scalpers-jersey-merino-verde",
-      "nombre": "Jersey de lana merino cuello polo",
-      "marca": "Scalpers",
-      "categoria": "Jerséis",
-      "detalle": "Verde · Ref. 69216",
-      "talla": "M (recomendada)",
-      "requiereTalla": true,
-      "tienda": "Scalpers",
-      "url": "https://scalperscompany.com/products/69216-scarchitect-polo-tricot-aw2627-green",
-      "imagen": "https://scalperscompany.com/cdn/shop/files/69216-GREEN-P-2.jpg?v=1790084414"
     },
     {
       "id": "mango-ben-vaquero-tn",
