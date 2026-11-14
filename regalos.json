@@ -13,6 +13,18 @@
       "imagen": "https://dam.elcorteingles.es/producto/www-001033373100594-00.jpg"
     },
     {
+      "id": "ooto-camisa-fluida",
+      "nombre": "Camisa lisa fluida de manga larga",
+      "marca": "OOTO",
+      "categoria": "Camisas",
+      "detalle": "Granate · Ref. 0754001",
+      "talla": "M (recomendada)",
+      "requiereTalla": true,
+      "tienda": "Cortefiel",
+      "url": "https://cortefiel.com/es/es/hombre/camisas/camisa-lisa-fluida-manga-larga/0754001.html?dwvar_0754001_color=69",
+      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw0592d34b/images/hi-res/P_075400169FM.jpg?sh=900&sm=fit&sw=600"
+    },
+    {
       "id": "elganso-camisa-garment-verde",
       "nombre": "Camisa Garment Dyed button down",
       "marca": "El Ganso",
