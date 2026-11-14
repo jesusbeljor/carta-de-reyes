@@ -62,7 +62,10 @@ function giftCard(gift, number) {
 }
 
 function render() {
-  grid.replaceChildren(...gifts.flatMap((gift, index) =>
+  const orderedGifts = activeCategory === 'Todo'
+    ? [...gifts].sort((a, b) => a.marca.localeCompare(b.marca, 'es', { sensitivity: 'base' }))
+    : gifts;
+  grid.replaceChildren(...orderedGifts.flatMap((gift, index) =>
     (activeCategory === 'Todo' || gift.categoria === activeCategory)
       ? [giftCard(gift, index + 1)] : []));
   const count = grid.children.length;
