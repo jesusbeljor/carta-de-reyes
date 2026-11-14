@@ -47,10 +47,6 @@ function giftCard(gift, number) {
   image.src = safeUrl(gift.imagen);
   imageLink.append(image, element('span', 'gift-category', gift.categoria));
   const body = element('div', 'gift-body');
-  if (gift.favorito) {
-    article.classList.add('gift-favorite');
-    body.append(element('p', 'favorite-badge', '★ Me hace especial ilusión'));
-  }
   body.append(element('p', 'gift-brand', gift.marca), element('h3', '', gift.nombre), element('p', 'gift-color', gift.detalle));
   const size = element('div', 'gift-size');
   size.innerHTML = sizeIcon;
@@ -67,7 +63,7 @@ function giftCard(gift, number) {
 
 function render() {
   grid.replaceChildren(...gifts.flatMap((gift, index) =>
-    (activeCategory === 'Todo' || (activeCategory === 'Mis favoritos' ? gift.favorito : gift.categoria === activeCategory))
+    (activeCategory === 'Todo' || gift.categoria === activeCategory)
       ? [giftCard(gift, index + 1)] : []));
   const count = grid.children.length;
   document.querySelector('#item-count').textContent = `${count} ${count === 1 ? 'idea' : 'ideas'}`;
@@ -85,7 +81,7 @@ async function loadGifts() {
     if (!Array.isArray(data.regalos)) throw new Error('Formato incorrecto');
     gifts = data.regalos;
     filters.replaceChildren();
-    for (const category of ['Todo', ...(gifts.some(gift => gift.favorito) ? ['Mis favoritos'] : []), ...new Set(gifts.map(gift => gift.categoria))]) {
+    for (const category of ['Todo', ...new Set(gifts.map(gift => gift.categoria))]) {
       const button = element('button', '', category);
       button.type = 'button';
       button.setAttribute('aria-pressed', String(category === activeCategory));
