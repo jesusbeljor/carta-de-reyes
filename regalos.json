@@ -181,18 +181,6 @@
       "imagen": "https://scalperscompany.com/cdn/shop/files/69216-GREEN-P-2.jpg?v=1790084414"
     },
     {
-      "id": "mango-ben-vaquero-bb",
-      "nombre": "Vaqueros Ben cropped tapered fit",
-      "marca": "Mango",
-      "categoria": "Pantalones",
-      "detalle": "Azul oscuro intenso · Ref. 37046000",
-      "talla": "42",
-      "requiereTalla": true,
-      "tienda": "Mango",
-      "url": "https://shop.mango.com/es/es/p/hombre/vaqueros/tapered/jeans-ben-cropped-tapered-fit/37046000/BB/00",
-      "imagen": "https://media.mango.com/is/image/punto/37046000-BB-900?wid=1000"
-    },
-    {
       "id": "mango-ben-vaquero-tn",
       "nombre": "Vaqueros Ben cropped tapered fit",
       "marca": "Mango",
