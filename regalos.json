@@ -10,7 +10,8 @@
       "requiereTalla": false,
       "tienda": "El Corte Inglés",
       "url": "https://www.elcorteingles.es/moda-hombre/A200422222-verde-pr-neceser-en-tejido/",
-      "imagen": "https://dam.elcorteingles.es/producto/www-001033373100594-00.jpg"
+      "imagen": "https://dam.elcorteingles.es/producto/www-001033373100594-00.jpg",
+      "favorito": true
     },
     {
       "id": "elganso-jersey-camionero",
@@ -22,7 +23,8 @@
       "requiereTalla": true,
       "tienda": "El Ganso",
       "url": "https://www.elganso.com/es/jersey-basico-cuello-camionero-verde-140854-140854.html",
-      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1090w260010_Jersey_Basico_Cuello_Camionero_Verde_2889_5.jpg"
+      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1090w260010_Jersey_Basico_Cuello_Camionero_Verde_2889_5.jpg",
+      "favorito": false
     },
     {
       "id": "ooto-camisa-oxford",
@@ -34,7 +36,8 @@
       "requiereTalla": true,
       "tienda": "Cortefiel",
       "url": "https://cortefiel.com/es/es/hombre/camisas/camisa-oxford-lisa-manga-larga/0754005.html?dwvar_0754005_color=14",
-      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dwf116f278/images/hi-res/P_075400514FM.jpg?sh=900&sm=fit&sw=600"
+      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dwf116f278/images/hi-res/P_075400514FM.jpg?sh=900&sm=fit&sw=600",
+      "favorito": false
     },
     {
       "id": "ooto-camisa-fluida",
@@ -46,7 +49,8 @@
       "requiereTalla": true,
       "tienda": "Cortefiel",
       "url": "https://cortefiel.com/es/es/hombre/camisas/camisa-lisa-fluida-manga-larga/0754001.html?dwvar_0754001_color=69",
-      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw0592d34b/images/hi-res/P_075400169FM.jpg?sh=900&sm=fit&sw=600"
+      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ooto-master-catalog/default/dw0592d34b/images/hi-res/P_075400169FM.jpg?sh=900&sm=fit&sw=600",
+      "favorito": false
     },
     {
       "id": "elganso-camisa-garment-verde",
@@ -58,7 +62,8 @@
       "requiereTalla": true,
       "tienda": "El Ganso",
       "url": "https://www.elganso.com/es/camisa-garment-dyed-button-down-verde-oscuro-140701-140701.html",
-      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260050_Camisa_Garment_Dyed_Button_Down_Verde_Oscuro_3286_5.jpg"
+      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260050_Camisa_Garment_Dyed_Button_Down_Verde_Oscuro_3286_5.jpg",
+      "favorito": false
     },
     {
       "id": "elganso-camisa-lino-gris",
@@ -70,7 +75,8 @@
       "requiereTalla": true,
       "tienda": "El Ganso",
       "url": "https://www.elganso.com/es/camisa-lino-algodon-cuello-italiano-gris-140658-140658.html",
-      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260030_Camisa_Lino_Algodon_Cuello_Italiano_Gris_0823_5.jpg"
+      "imagen": "https://cdn.elganso.com/media/catalog/product/1/0/1050w260030_Camisa_Lino_Algodon_Cuello_Italiano_Gris_0823_5.jpg",
+      "favorito": false
     },
     {
       "id": "elganso-camisa-viyela-celeste",
@@ -82,7 +88,8 @@
       "requiereTalla": true,
       "tienda": "El Ganso",
       "url": "https://www.elganso.com/es/camisa-viyela-cuello-italiano-celeste-139347-139347.html",
-      "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260094_Camisa_Viyela_Cuello_Italiano_Celeste_6148.jpg"
+      "imagen": "https://cdn.elganso.com/media/catalog/product/cache/dd4850ad4231b6306bceadf38a0bbeed/1/0/1050w260094_Camisa_Viyela_Cuello_Italiano_Celeste_6148.jpg",
+      "favorito": false
     },
     {
       "id": "silbon-jersey-burdeos",
@@ -94,7 +101,8 @@
       "requiereTalla": true,
       "tienda": "Silbon",
       "url": "https://www.silbonshop.com/products/jersey-cuello-polo-burdeos-1",
-      "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261020817163_2.jpg?v=1791980411&width=800"
+      "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261020817163_2.jpg?v=1791980411&width=800",
+      "favorito": false
     },
     {
       "id": "pompeii-elan-pippa-cedar-cream",
@@ -106,7 +114,8 @@
       "requiereTalla": true,
       "tienda": "Pompeii",
       "url": "https://pompeiibrand.com/products/elan-pippa-nobuck-cedar-cream",
-      "imagen": "https://cdn.shopify.com/s/files/1/0003/6270/9002/files/ELANPIPPANOBUCKCEDARCREAM_01.jpg?v=1792426251"
+      "imagen": "https://cdn.shopify.com/s/files/1/0003/6270/9002/files/ELANPIPPANOBUCKCEDARCREAM_01.jpg?v=1792426251",
+      "favorito": true
     },
     {
       "id": "silbon-sudadera-minilogo-marino",
@@ -118,7 +127,8 @@
       "requiereTalla": true,
       "tienda": "Silbon",
       "url": "https://www.silbonshop.com/products/sudadera-media-cremallera-minilogo-azul-marino-1",
-      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261041102224_1.jpg?v=1788520253"
+      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261041102224_1.jpg?v=1788520253",
+      "favorito": true
     },
     {
       "id": "cortefiel-sudadera-capucha-40",
@@ -130,7 +140,8 @@
       "requiereTalla": true,
       "tienda": "Cortefiel",
       "url": "https://cortefiel.com/es/es/hombre/sudaderas/sudadera-con-capucha/2184015.html?dwvar_2184015_color=40",
-      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ctf-master-catalog/default/dw3de39913/images/hi-res/P_218401540FM.jpg?sh=900&sm=fit&sw=600"
+      "imagen": "https://cortefiel.com/dw/image/v2/AAYL_PRD/on/demandware.static/-/Sites-gc-ctf-master-catalog/default/dw3de39913/images/hi-res/P_218401540FM.jpg?sh=900&sm=fit&sw=600",
+      "favorito": false
     },
     {
       "id": "silbon-cinturon-etnico-marino",
@@ -142,7 +153,8 @@
       "requiereTalla": true,
       "tienda": "Silbon",
       "url": "https://www.silbonshop.com/products/cinturon-piel-tejido-etnico-azul-marino",
-      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261012102853_10.jpg?v=1786017581"
+      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261012102853_10.jpg?v=1786017581",
+      "favorito": false
     },
     {
       "id": "scalpers-cinturon-61771",
@@ -154,7 +166,8 @@
       "requiereTalla": true,
       "tienda": "Scalpers",
       "url": "https://scalperscompany.com/products/61771-scstripes-elastic-belt-aw2526-khaki",
-      "imagen": "https://scalperscompany.com/cdn/shop/files/61771-KHAKI-S-2.jpg?v=1753448846"
+      "imagen": "https://scalperscompany.com/cdn/shop/files/61771-KHAKI-S-2.jpg?v=1753448846",
+      "favorito": true
     },
     {
       "id": "silbon-jersey-rombos-azul-gris",
@@ -166,7 +179,8 @@
       "requiereTalla": true,
       "tienda": "Silbon",
       "url": "https://www.silbonshop.com/products/jersey-rombos-azul-gris",
-      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261020811436.jpg?v=1792589463"
+      "imagen": "https://cdn.shopify.com/s/files/1/0794/1311/7206/files/FW261020811436.jpg?v=1792589463",
+      "favorito": false
     },
     {
       "id": "scalpers-jersey-merino-verde",
@@ -178,7 +192,8 @@
       "requiereTalla": true,
       "tienda": "Scalpers",
       "url": "https://scalperscompany.com/products/69216-scarchitect-polo-tricot-aw2627-green",
-      "imagen": "https://scalperscompany.com/cdn/shop/files/69216-GREEN-P-2.jpg?v=1790084414"
+      "imagen": "https://scalperscompany.com/cdn/shop/files/69216-GREEN-P-2.jpg?v=1790084414",
+      "favorito": false
     },
     {
       "id": "mango-ben-vaquero-tn",
@@ -190,7 +205,8 @@
       "requiereTalla": true,
       "tienda": "Mango",
       "url": "https://shop.mango.com/es/es/p/hombre/vaqueros/tapered/jeans-ben-cropped-tapered-fit/37002901/TN/00",
-      "imagen": "https://media.mango.com/is/image/punto/37002901-TN-900?wid=1000"
+      "imagen": "https://media.mango.com/is/image/punto/37002901-TN-900?wid=1000",
+      "favorito": true
     },
     {
       "id": "silbon-camisa-hunter-verde",
@@ -202,7 +218,8 @@
       "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261020503053_10.jpg?v=1792409086&width=1100",
       "talla": "L (recomendada)",
       "requiereTalla": true,
-      "tienda": "Silbon"
+      "tienda": "Silbon",
+      "favorito": false
     },
     {
       "id": "scalpers-polo-largo-antracita",
@@ -214,7 +231,8 @@
       "imagen": "https://scalperscompany.com/cdn/shop/files/72715-ANTHRACITEMELANGE-P-4.jpg?crop=center&height=1583&v=1792504739&width=1100",
       "talla": "M (recomendada)",
       "requiereTalla": true,
-      "tienda": "Scalpers"
+      "tienda": "Scalpers",
+      "favorito": true
     },
     {
       "id": "silbon-polo-largo-petroleo",
@@ -226,7 +244,8 @@
       "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261011002418_1_3_25676cc4-d0e9-4185-a3a0-8550afbd4531.jpg?v=1792760473&width=800",
       "talla": "M (recomendada)",
       "requiereTalla": true,
-      "tienda": "Silbon"
+      "tienda": "Silbon",
+      "favorito": true
     },
     {
       "id": "scalpers-camisa-cutaway-celeste",
@@ -238,7 +257,21 @@
       "requiereTalla": true,
       "tienda": "Scalpers",
       "url": "https://scalperscompany.com/products/70304-scsport-elisee-shirt-aw2627-lightblue",
-      "imagen": "https://scalperscompany.com/cdn/shop/files/70304-LIGHTBLUE-P-2.jpg?crop=center&height=1500&v=1784892486&width=1000"
+      "imagen": "https://scalperscompany.com/cdn/shop/files/70304-LIGHTBLUE-P-2.jpg?crop=center&height=1500&v=1784892486&width=1000",
+      "favorito": true
+    },
+    {
+      "id": "silbon-camisa-pique-azul-gris",
+      "nombre": "Camisa sport de piqué",
+      "marca": "Silbon",
+      "categoria": "Camisas",
+      "detalle": "Azul gris · Ref. FW261040502048",
+      "talla": "M (recomendada)",
+      "requiereTalla": true,
+      "tienda": "Silbon",
+      "url": "https://www.silbonshop.com/products/camisa-sport-pique-azul-gris",
+      "imagen": "https://www.silbonshop.com/cdn/shop/files/FW261040502048_2.jpg?v=1793118371&width=1100",
+      "favorito": true
     }
   ]
 }
