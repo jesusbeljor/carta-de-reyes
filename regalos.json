@@ -229,18 +229,6 @@
       "tienda": "Silbon"
     },
     {
-      "id": "scalpers-camisa-denim-claro",
-      "nombre": "Camisa denim con cuello de botones",
-      "marca": "Scalpers",
-      "categoria": "Camisas",
-      "detalle": "Denim claro · Ref. 68886",
-      "talla": "40 (recomendada)",
-      "requiereTalla": true,
-      "tienda": "Scalpers",
-      "url": "https://scalperscompany.com/products/68886-scalpha-s-bd-shirt-aw2627-lightdenim",
-      "imagen": "https://scalperscompany.com/cdn/shop/files/68886-LIGHTDENIM-P-2.jpg?crop=center&height=1500&v=1784877151&width=1000"
-    },
-    {
       "id": "scalpers-camisa-cutaway-celeste",
       "nombre": "Camisa de algodón con cuello cutaway",
       "marca": "Scalpers",
