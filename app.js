@@ -27,7 +27,7 @@ function externalLink(url, className) {
   return link;
 }
 
-function giftCard(gift, number) {
+function giftCard(gift, number, headingTag = 'h3') {
   const article = element('article', 'gift');
   const imageLink = externalLink(gift.url, 'gift-image-link');
   imageLink.setAttribute('aria-label', `Ver ${gift.nombre}, ${gift.detalle}, en ${gift.tienda} (abre en otra pestaña)`);
@@ -47,7 +47,7 @@ function giftCard(gift, number) {
   image.src = safeUrl(gift.imagen);
   imageLink.append(image, element('span', 'gift-category', gift.categoria));
   const body = element('div', 'gift-body');
-  body.append(element('p', 'gift-brand', gift.marca), element('h3', '', gift.nombre), element('p', 'gift-color', gift.detalle));
+  body.append(element('p', 'gift-brand', gift.marca), element(headingTag, 'gift-title', gift.nombre), element('p', 'gift-color', gift.detalle));
   const size = element('div', 'gift-size');
   size.innerHTML = sizeIcon;
   const confirmed = typeof gift.talla === 'string' && gift.talla.trim();
@@ -65,10 +65,19 @@ function render() {
   const orderedGifts = activeCategory === 'Todo'
     ? [...gifts].sort((a, b) => a.marca.localeCompare(b.marca, 'es', { sensitivity: 'base' }))
     : gifts;
-  grid.replaceChildren(...orderedGifts.flatMap((gift, index) =>
-    (activeCategory === 'Todo' || gift.categoria === activeCategory)
-      ? [giftCard(gift, index + 1)] : []));
-  const count = grid.children.length;
+  const cards = [];
+  let previousBrand;
+  let count = 0;
+  orderedGifts.forEach((gift, index) => {
+    if (activeCategory !== 'Todo' && gift.categoria !== activeCategory) return;
+    if (activeCategory === 'Todo' && gift.marca !== previousBrand) {
+      cards.push(element('h3', 'brand-heading', gift.marca));
+      previousBrand = gift.marca;
+    }
+    cards.push(giftCard(gift, index + 1, activeCategory === 'Todo' ? 'h4' : 'h3'));
+    count += 1;
+  });
+  grid.replaceChildren(...cards);
   document.querySelector('#item-count').textContent = `${count} ${count === 1 ? 'idea' : 'ideas'}`;
   filters.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed', String(button.textContent === activeCategory)));
   grid.setAttribute('aria-busy', 'false');
