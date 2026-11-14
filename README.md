@@ -6,9 +6,9 @@ Lista de regalos de Reyes con fotos, variantes, tallas y enlaces directos a las 
 
 Los artículos están en `regalos.json`. Para añadir uno, copia un objeto existente y cambia su identificador, nombre, marca, categoría, detalle, tienda, enlace e imagen.
 
-Una talla sin confirmar se guarda como `null`. Sustitúyela por la talla elegida entre comillas cuando Jesús la confirme. `requiereTalla: false` corresponde a artículos que no necesitan talla.
+Cada artículo que necesita talla incluye una talla elegida o una propuesta como `M (recomendada)`. Las recomendaciones son orientativas y se basan en las referencias de Jesús y la información disponible del modelo. Una talla todavía pendiente se guarda como `null`. `requiereTalla: false` corresponde a artículos que no necesitan talla.
 
-Las dos sudaderas Tommy son variantes distintas: VLP y Z00. Sus enlaces se conservan por separado.
+Consultar las instrucciones y referencias de ajuste en la carpeta de trabajo superior antes de añadir productos. Esos documentos personales quedan fuera de este repositorio público.
 
 ## Publicación
 

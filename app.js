@@ -66,7 +66,14 @@ function render() {
   const count = grid.children.length;
   document.querySelector('#item-count').textContent = `${count} ${count === 1 ? 'idea' : 'ideas'}`;
   filters.querySelectorAll('button').forEach(button => button.setAttribute('aria-pressed', String(button.textContent === activeCategory)));
-  document.querySelector('.size-notice').hidden = !gifts.some(gift => gift.requiereTalla && !gift.talla?.trim());
+  const pendingSizes = gifts.some(gift => gift.requiereTalla && !gift.talla?.trim());
+  const recommendedSizes = gifts.some(gift => gift.talla?.includes('(recomendada)'));
+  const sizeNotice = document.querySelector('.size-notice');
+  sizeNotice.hidden = !pendingSizes && !recommendedSizes;
+  sizeNotice.querySelector('strong').textContent = pendingSizes ? 'Algunas tallas están pendientes.' : 'Las tallas ya están en cada regalo.';
+  sizeNotice.querySelector('.size-notice-detail').textContent = pendingSizes
+    ? ' Comprueba la talla del artículo que elijas antes de comprar.'
+    : ' Las marcadas como «recomendadas» son orientativas, según mis referencias de talla y la información disponible del modelo.';
   grid.setAttribute('aria-busy', 'false');
 }
 
